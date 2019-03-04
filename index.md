@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/tejada7/tejada7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, it's Favio, and I'm a software engineer based in Paris with a passion for the Java programming language. Do you want to work together or if you have any question or suggestion regarding my work please don't hesitate to contact me to my [Linkedin](www.linkedin.com/in/favio-tejada).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Current Location
 
-### Markdown
+Paris - Île-de-France
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My projects
 
-```markdown
-Syntax highlighted code block
+### Identity Access Management(IAM) Web Application
 
-# Header 1
-## Header 2
-### Header 3
+One of the project that I enjoyed the most not only because of the challenge of integrating multiple tools and frameworks, but also because it represented a valuable starting point for what I would be using as a Java programmer for my future career.
 
-- Bulleted
-- List
+For more details see the [project source code on Github](https://github.com/tejada7/Java_IAM_Project).
 
-1. Numbered
-2. List
+### My first website
 
-**Bold** and _Italic_ and `Code` text
+Along with a classmate we've developed a web site for a [tourism agency](http://www.boliviaexpedition.com/) from our hometown.  
+Technologies involved:
+- html
+- css
+- flash
+- jQuery
 
-[Link](url) and ![Image](src)
-```
+## About me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+After obtaining my CS bachelor's degree in 2014 I moved to the multi-cultural and impressive Paris where I studied a graduate program in Software Engineering. Later on I joined a multi-national IT consulting company where I literally had the time of my life career-wise.
 
-### Jekyll Themes
+I enjoy working on challenging projects that require high demand of intellectual and technical assets, combining effective communication skills and determination to achieve a shared goal.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tejada7/tejada7.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+During my spare time I love practicing sports, playing videogames and watching Roger Federer's matches.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### My recent activity
+- **January 2019** - After 2.5 months of study, I've got an Oracle Java Certification, check out my badge by clicking on    [![](https://tejada7.github.io/badge.png)](https://www.youracclaim.com/badges/0f971f6e-3699-4cfe-ab4e-64afc9c20fc8/public_url). This repo contains the code source used throughout my preparation :).  
+- **December 2018** - In order to polish my knowledge, I've attended advanced C1 French courses at [Alliance Française in La Paz](http://lapaz.alianzafrancesa.org.bo/)  
+- **August 2018** - Along a solid team we successfully delivered the final version of the mobile Android app we've been working on since end of 2017

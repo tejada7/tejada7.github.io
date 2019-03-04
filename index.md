@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-Hi, it's Favio, and I'm a software engineer based in Paris with a passion for the Java programming language. Do you want to work together or if you have any question or suggestion regarding my work please don't hesitate to contact me to my [Linkedin](www.linkedin.com/in/favio-tejada).
+Hi, it's Favio, and I'm a software engineer based in Paris with a passion for the Java programming language. Do you want to work together or if you have any question or suggestion regarding my work please don't hesitate to contact me to my [Linkedin](http://www.linkedin.com/in/favio-tejada).
 
 ## Current Location
 

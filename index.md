@@ -32,6 +32,6 @@ I enjoy working on challenging projects that require high demand of intellectual
 During my spare time I love practicing sports, playing videogames and watching Roger Federer's matches.
 
 ### My recent activity
-- **January 2019** - After 2.5 months of study, I've got an Oracle Java Certification, check out my badge by clicking on    [![](https://tejada7.github.io/badge.png)](https://www.youracclaim.com/badges/0f971f6e-3699-4cfe-ab4e-64afc9c20fc8/public_url). This repo contains the code source used throughout my preparation :).  
+- **January 2019** - After 2.5 months of study, I've got an Oracle Java Certification, check out my badge by clicking on    [![](https://tejada7.github.io/badge.png)](https://www.youracclaim.com/badges/0f971f6e-3699-4cfe-ab4e-64afc9c20fc8/public_url). This [repo](https://github.com/tejada7/OCA/tree/master/src) contains the code source used throughout my preparation :).  
 - **December 2018** - In order to polish my knowledge, I've attended advanced C1 French courses at [Alliance Française in La Paz](http://lapaz.alianzafrancesa.org.bo/)  
 - **August 2018** - Along a solid team we successfully delivered the final version of the mobile Android app we've been working on since end of 2017
